@@ -1,0 +1,35 @@
+Liebe/r Elearning-Portalnutzer/in,
+
+am 25. Mai 2018 ist die neue Datenschutzgrundverordnung (DSGVO) in Deutschland und in allen Mitgliedsstaaten der Europäischen Union geltendes Recht geworden. 
+Basierend auf dieser Rechtsgrundlage möchten wir Sie über die Verarbeitung Ihrer personenbezogenen Daten auf PhysikOnline informieren.
+
+Datenerhebung und Verarbeitung von personenbezogenen Daten auf PhysikOnline
+PhysikOnline erhebt und verarbeitet folgende Daten der Mitglieder:
+
+ - Vorname
+ - Nachname
+ - Titel
+ - Email
+ - Matrikelnummer
+ - letzer Login
+ - IP-Adresse  
+ - Eintritt ins Elearning-Portal
+
+sowie weiteren Informationen und Inhalte, die von Ihnen eigenständig erstellt worden sind:
+
+ - Adressdaten
+ - Telefonnummer/Fax
+ - Geburtsdatum
+
+Weitere Informationen finde Sie in unserem Datenschutz auf dem Elearning-Portal unter "Nutzungsbedingungen".
+
+Ihre Rechte
+Sie haben jederzeit das Recht, Ihre Einwilligung zur Verarbeitung personenbezogener Daten ohne Begründung zu widerrufen.
+Dazu antworten Sie formlos auf diese Email. 
+
+Sollten Sie noch Fragen haben, schreiben Sie eine Email an dsgvo@elearning.physik.uni-frankfurt.de. 
+
+Mit freundlichen Grüßen
+PhysikOnline-Team
+ 
+Should you require an English version of this E-Mail, do not hesitate to contact us.
